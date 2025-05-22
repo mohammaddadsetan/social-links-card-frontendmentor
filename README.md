@@ -35,7 +35,7 @@ The original challenge can be found on [Frontend Mentor](https://www.frontendmen
 
 ## Demo
 
-You can view the live demo on [GitHub Pages](https://your-username.github.io/social-links-profile-main/).
+You can view the live demo on [GitHub Pages](https://mohammaddadsetan.github.io/social-links-card-frontendmentor/).
 
 ## License
 
